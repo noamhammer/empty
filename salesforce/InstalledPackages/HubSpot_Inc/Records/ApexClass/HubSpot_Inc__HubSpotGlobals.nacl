@@ -1,0 +1,6 @@
+salesforce.ApexClass HubSpot_Inc__HubSpotGlobals {
+  apiVersion = 22
+  status = "Active"
+  fullName = "HubSpot_Inc__HubSpotGlobals"
+  content = file("salesforce/InstalledPackages/HubSpot_Inc/Records/ApexClass/HubSpot_Inc__HubSpotGlobals.cls")
+}

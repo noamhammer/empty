@@ -1,0 +1,16 @@
+salesforce.CustomApplication HubSpot_Inc__HubSpot_Sync {
+  fullName = "HubSpot_Inc__HubSpot_Sync"
+  defaultLandingTab = "standard-home"
+  description = "Synchronize your HubSpot Contacts with Salesforce.com Leads and Contacts and provide valuable website intelligence directly to your Sales Team."
+  formFactors = [
+    "Large",
+  ]
+  isNavAutoTempTabsDisabled = false
+  isNavPersonalizationDisabled = false
+  label = "HubSpot"
+  logo = "HubSpot_Inc__Images/HubSpot_Inc__HubSpot_Logo.png"
+  tabs = [
+    "standard-Lead",
+    "standard-Contact",
+  ]
+}

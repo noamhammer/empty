@@ -1,0 +1,7 @@
+salesforce.StaticResource HubSpot_Inc__hubspotcss {
+  cacheControl = "Private"
+  contentType = "text/css"
+  description = "Stylesheet used by HubSpot Visualforce Pages."
+  fullName = "HubSpot_Inc__hubspotcss"
+  content = file("salesforce/InstalledPackages/HubSpot_Inc/Records/StaticResource/HubSpot_Inc__hubspotcss.css")
+}

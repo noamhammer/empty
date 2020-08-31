@@ -1,0 +1,5 @@
+salesforce.DocumentFolder HubSpot_Inc__Images {
+  accessType = "Hidden"
+  name = "Images"
+  fullName = "HubSpot_Inc__Images"
+}

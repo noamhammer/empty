@@ -1,0 +1,7 @@
+salesforce.StaticResource HubSpot_Inc__contactfavicon {
+  cacheControl = "Private"
+  contentType = "image/png"
+  description = "Icon used by HubSpot Tab."
+  fullName = "HubSpot_Inc__contactfavicon"
+  content = file("salesforce/InstalledPackages/HubSpot_Inc/Records/StaticResource/HubSpot_Inc__contactfavicon.png")
+}

@@ -1,0 +1,17 @@
+salesforce.CustomObjectTranslation CreatedinDev1__c_en_US {
+  fullName = "CreatedinDev1__c-en_US"
+  caseValues = [
+    {
+      plural = false
+      value = "CreatedinDev1"
+    },
+    {
+      plural = true
+      value = "CreatedinDev1s"
+    },
+  ]
+  startsWith = "Consonant"
+  _parent = [
+    salesforce.CreatedinDev1__c,
+  ]
+}

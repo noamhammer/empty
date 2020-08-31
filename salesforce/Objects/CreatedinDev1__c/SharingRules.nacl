@@ -1,0 +1,6 @@
+salesforce.SharingRules CreatedinDev1__c {
+  fullName = "CreatedinDev1__c"
+  _parent = [
+    salesforce.CreatedinDev1__c,
+  ]
+}

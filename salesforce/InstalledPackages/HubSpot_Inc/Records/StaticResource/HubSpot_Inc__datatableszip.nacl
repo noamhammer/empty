@@ -1,0 +1,7 @@
+salesforce.StaticResource HubSpot_Inc__datatableszip {
+  cacheControl = "Private"
+  contentType = "application/x-zip-compressed"
+  description = "jQuery scripts used by the HubSpot Tab."
+  fullName = "HubSpot_Inc__datatableszip"
+  content = file("salesforce/InstalledPackages/HubSpot_Inc/Records/StaticResource/HubSpot_Inc__datatableszip.resource")
+}

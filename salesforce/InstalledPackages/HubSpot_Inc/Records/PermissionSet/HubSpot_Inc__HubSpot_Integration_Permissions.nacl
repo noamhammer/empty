@@ -1,0 +1,6 @@
+salesforce.PermissionSet HubSpot_Inc__HubSpot_Integration_Permissions {
+  fullName = "HubSpot_Inc__HubSpot_Integration_Permissions"
+  description = "Permissions needed for the user HubSpot uses to add/update data in Salesforce"
+  hasActivationRequired = false
+  label = "HubSpot Integration Permissions"
+}

@@ -1,0 +1,4 @@
+salesforce.InstalledPackage HubSpot_Inc {
+  versionNumber = "3"
+  fullName = "HubSpot_Inc"
+}

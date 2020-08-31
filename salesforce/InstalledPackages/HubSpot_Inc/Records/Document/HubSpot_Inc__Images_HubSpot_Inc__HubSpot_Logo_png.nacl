@@ -1,0 +1,7 @@
+salesforce.Document HubSpot_Inc__Images_HubSpot_Inc__HubSpot_Logo_png {
+  internalUseOnly = false
+  name = "HubSpot Logo"
+  public = true
+  fullName = "HubSpot_Inc__Images/HubSpot_Inc__HubSpot_Logo.png"
+  content = file("salesforce/InstalledPackages/HubSpot_Inc/Records/Document/HubSpot_Inc__Images/HubSpot_Inc__HubSpot_Logo.png")
+}

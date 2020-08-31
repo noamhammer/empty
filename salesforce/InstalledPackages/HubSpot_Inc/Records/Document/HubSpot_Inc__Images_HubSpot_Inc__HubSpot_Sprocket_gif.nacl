@@ -1,0 +1,7 @@
+salesforce.Document HubSpot_Inc__Images_HubSpot_Inc__HubSpot_Sprocket_gif {
+  internalUseOnly = false
+  name = "HubSpot Sprocket"
+  public = true
+  fullName = "HubSpot_Inc__Images/HubSpot_Inc__HubSpot_Sprocket.gif"
+  content = file("salesforce/InstalledPackages/HubSpot_Inc/Records/Document/HubSpot_Inc__Images/HubSpot_Inc__HubSpot_Sprocket.gif")
+}

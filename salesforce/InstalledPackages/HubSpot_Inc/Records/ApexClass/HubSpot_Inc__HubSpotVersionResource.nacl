@@ -1,0 +1,6 @@
+salesforce.ApexClass HubSpot_Inc__HubSpotVersionResource {
+  apiVersion = 25
+  status = "Active"
+  fullName = "HubSpot_Inc__HubSpotVersionResource"
+  content = file("salesforce/InstalledPackages/HubSpot_Inc/Records/ApexClass/HubSpot_Inc__HubSpotVersionResource.cls")
+}
