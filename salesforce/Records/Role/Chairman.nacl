@@ -1,0 +1,9 @@
+salesforce.Role Chairman {
+  fullName = "Chairman"
+  caseAccessLevel = "Edit"
+  contactAccessLevel = "Edit"
+  description = "Chairman"
+  mayForecastManagerShare = false
+  name = "Chairman"
+  opportunityAccessLevel = "Edit"
+}
